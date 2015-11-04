@@ -1,0 +1,5 @@
+name = Ajax Reader
+description = An article viewer using Ajax
+package = tutorial modules
+core = 7.x
+files[] = ajax_reader.module
